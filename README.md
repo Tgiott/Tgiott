@@ -51,10 +51,4 @@ Sou especialista em otimização de performance e tenho experiência em trabalha
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
 </div>
 
-
-
-<img src="https://raw.githubusercontent.com/Tgiott/Tgiott/output/snake.svg" alt="Snake animation" />
-
-###
-
 ###
