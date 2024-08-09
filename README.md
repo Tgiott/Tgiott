@@ -36,7 +36,8 @@ Sou especialista em otimização de performance e tenho experiência em trabalha
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-## 📈 GitHub Status 
+## ✨  My Status 
+### Meu Status
 
 
 <div align="center">
@@ -54,4 +55,4 @@ Sou especialista em otimização de performance e tenho experiência em trabalha
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
 </div>
 
-###
+###  
