@@ -3,7 +3,7 @@
 
 Java | Spring Boot | SQL Server | React | Angular | TypeScript
 
-Possuo 3+ anos de experiência em desenvolvimento fullstack. Criei e implantei diversas aplicações web utilizando Spring Boot e React, sistemas de controle de estoque, paineis de portais analiticos.
+Possuo 4+ anos de experiência em desenvolvimento fullstack. Criei e implantei diversas aplicações web utilizando Spring Boot e React, sistemas de controle de estoque, paineis de portais analiticos.
 Sou especialista em otimização de performance e tenho experiência em trabalhar com equipes distribuídas.
 
 
